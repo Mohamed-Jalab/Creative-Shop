@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494385011364",
+    "project_id": "creative-shop-3beb0",
+    "storage_bucket": "creative-shop-3beb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494385011364:android:75b1516dbf4ee01850a431",
+        "android_client_info": {
+          "package_name": "com.example.creative_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494385011364-hhemc4q9igl25tr8fqes4o2etcc15dau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0RCxGhPhuRgObEYR-V-Frm02A0YOVhlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494385011364-hhemc4q9igl25tr8fqes4o2etcc15dau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
